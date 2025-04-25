@@ -1,0 +1,60 @@
+{
+  "FailedTests": [
+
+  ],
+  "PassedTests": [
+    {
+      "file": "test/test_leds.c",
+      "test": "test_todos_los_leds_inician_apagados"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_prender_led_individual"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_apagar_led_individual"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_prender_y_apagar_algunos_leds"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_prender_todos_los_leds"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_apagar_todos_los_leds"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_consultar_estado_led_encendido"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_consultar_estado_led_apagado"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_revisar_limites_inferior"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_revisar_limites_superior"
+    },
+    {
+      "file": "test/test_leds.c",
+      "test": "test_revisar_parametros_fuera_de_limites"
+    }
+  ],
+  "IgnoredTests": [
+
+  ],
+  "Summary": {
+    "total_tests": 11,
+    "passed": 11,
+    "ignored": 0,
+    "failures": 0
+  }
+}

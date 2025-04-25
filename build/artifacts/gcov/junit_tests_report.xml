@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<testsuites tests="11" failures="0" time="0.002">
+  <testsuite name="test/test_leds" tests="11" failures="0" skipped="0" errors="0" time="0.002">
+    <testcase name="test_todos_los_leds_inician_apagados" time="0.000"/>
+    <testcase name="test_prender_led_individual" time="0.000"/>
+    <testcase name="test_apagar_led_individual" time="0.000"/>
+    <testcase name="test_prender_y_apagar_algunos_leds" time="0.000"/>
+    <testcase name="test_prender_todos_los_leds" time="0.000"/>
+    <testcase name="test_apagar_todos_los_leds" time="0.000"/>
+    <testcase name="test_consultar_estado_led_encendido" time="0.000"/>
+    <testcase name="test_consultar_estado_led_apagado" time="0.000"/>
+    <testcase name="test_revisar_limites_inferior" time="0.000"/>
+    <testcase name="test_revisar_limites_superior" time="0.000"/>
+    <testcase name="test_revisar_parametros_fuera_de_limites" time="0.000"/>
+  </testsuite>
+</testsuites>
