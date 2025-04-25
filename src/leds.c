@@ -103,7 +103,7 @@ static bool insideLimits(uint8_t led) {
 
 void LedsInit(uint16_t *direccion) {
   port_address = direccion;
-  LedsOffAll();
+  LedsOffAll(); // esto agrego como cambio
 }
 
 void LedsOnSingle(uint8_t led) { *port_address |= LedToMask(led); }
